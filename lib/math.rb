@@ -11,6 +11,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
+  division = num1 / num2
+  division
 
 end
 
